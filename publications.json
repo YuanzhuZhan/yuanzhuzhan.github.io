@@ -1,52 +1,87 @@
 {
   "publications": [
     {
-      "title": "[Paper Title 1]",
+      "title": "Aerial Manipulation in the Wild with Onboard Perception, Policy Learning, and Whole-Body Control",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11†",
-        "Author 12†"
+        "Yuanzhu Zhan*",
+        "Yufei Jiang*",
+        "Zemu Zhang",
+        "Junyi Geng"
       ],
-      "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/1.jpg",
+      "venue": "IROS 2026 \u00b7 5th Workshop on Mobile Manipulation and Embodied Intelligence (MoMA.v5) \u00b7 Accepted",
       "selected": 1,
-      "award": "",
       "links": {
-        "pdf": "#",
-        "code": "#",
-        "project": "#"
+        "paper": "https://arxiv.org/abs/2609.30521",
+        "demo": "#outdoor-project"
       }
     },
     {
-      "title": "[Paper Title 2]",
+      "title": "AM-Bench: A Modular Simulation Suite and Benchmark for Aerial Manipulation Policy Learning",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11"
+        "Yutong Wang",
+        "Dongjae Lee",
+        "Xiaofeng Guo",
+        "Yuanzhu Zhan",
+        "Yufei Jiang",
+        "Bavin Saravanan",
+        "Muqing Cao",
+        "Jia Xie",
+        "Chenyang Mao",
+        "Sebastian Scherer",
+        "Junyi Geng",
+        "Guanya Shi"
       ],
-      "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/2.jpg",
-      "selected": 0,
-      "award": "",
+      "venue": "Conference on Robot Learning (CoRL), 2026 \u00b7 Accepted",
+      "selected": 1,
       "links": {
-        "pdf": "#"
+        "paper": "https://arxiv.org/abs/2609.00641",
+        "project": "https://ambench.github.io/"
+      }
+    },
+    {
+      "title": "A Self-Supervised Learning Approach with Differentiable Optimization for UAV Trajectory Planning",
+      "authors": [
+        "Yufei Jiang*",
+        "Yuanzhu Zhan*",
+        "Harsh Vardhan Gupta",
+        "Chinmay Borde",
+        "Junyi Geng"
+      ],
+      "venue": "IEEE International Conference on Robotics and Automation (ICRA), 2026 \u00b7 Accepted",
+      "selected": 1,
+      "links": {
+        "paper": "https://arxiv.org/abs/2504.04289",
+        "project": "https://ari-psu.github.io/selfsupervised_planning/"
+      }
+    },
+    {
+      "title": "Aerial Manipulation with Contact-Aware Onboard Perception and Hybrid Control",
+      "authors": [
+        "Yuanzhu Zhan*",
+        "Yufei Jiang*",
+        "Muqing Cao",
+        "Junyi Geng"
+      ],
+      "venue": "IEEE International Conference on Robotics and Automation (ICRA), 2026 \u00b7 Accepted",
+      "selected": 1,
+      "links": {
+        "paper": "https://arxiv.org/abs/2602.08251",
+        "project": "https://ari-psu.github.io/contact-aware-vio/"
+      }
+    },
+    {
+      "title": "A Surgical State Identifying Method based on BiLSTM with Vibration Processing for Improving Safety of Bone Milling System",
+      "authors": [
+        "Jinyu Liu",
+        "Yuanzhu Zhan",
+        "Wenduo Jia",
+        "Jianxun Zhang",
+        "Yu Dai"
+      ],
+      "venue": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025 \u00b7 pp. 4018\u20134023",
+      "selected": 0,
+      "links": {
+        "paper": "https://ieeexplore.ieee.org/document/11246206"
       }
     }
   ]

@@ -27,7 +27,6 @@ To add a project, add an `article.project` inside `.project-list`, with a previe
 
 To replace a demo, update its `source`, `poster`, accessible label, description, and project links together. Videos use `autoplay loop muted playsinline` and play without clicking. The AM-Bench PNG stays static. A shared “Pause animations” button lets visitors stop motion.
 
-Typography uses locally hosted Titillium Web (400 and 600), matching the font used by https://tairanhe.com/. Font files and their SIL Open Font License are in `fonts/`.
 
 ## Content sources
 

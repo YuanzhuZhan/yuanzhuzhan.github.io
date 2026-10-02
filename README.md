@@ -23,9 +23,9 @@ Open http://localhost:8000. You can also open `index.html` directly: content is 
 - `images/projects/*.jpg`: video posters.
 - `images/Headshot Sedona.JPG`: existing profile portrait.
 
-To add a project, add an `article.project` inside `.project-list`, with a preview and a `.project-content` description. Each project occupies one row on desktop and stacks its preview above the text on narrow screens. Paper links are included in the project descriptions; there is no separate publication section.
+To add a project, add an `article.project` inside `.project-list`, with a preview and a `.project-content` block containing the paper title, author list, venue, and links. Use `.project-authors` for the author list and `<strong>` to highlight Yuanzhu Zhan’s name. Each project occupies one row on desktop and stacks its preview above the text on narrow screens. Paper links are included in each project entry; there is no separate publication section.
 
-To replace a demo, update its `source`, `poster`, accessible label, description, and project links together. Videos use `autoplay loop muted playsinline` and play without clicking. The AM-Bench PNG stays static. A shared “Pause animations” button lets visitors stop motion.
+To replace a demo, update its `source`, `poster`, accessible label and project links together. Videos use `autoplay loop muted playsinline` and play without clicking. The AM-Bench PNG stays static. A shared “Pause animations” button lets visitors stop motion.
 
 
 ## Content sources

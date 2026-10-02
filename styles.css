@@ -65,7 +65,8 @@ h3 { font-size: 17px; line-height: 1.4; font-weight: 600; margin: 0 0 6px; }
 .project-image { display: flex; align-items: center; justify-content: center; }
 .project-image img { display: block; width: 100%; height: auto; }
 .project-label { font-size: 13px; color: var(--muted); margin: 0 0 5px; }
-.project-content p:not(.project-label) { font-size: 15px; line-height: 1.55; margin: 0 0 8px; }
+.project-authors { font-size: 15px; line-height: 1.55; margin: 0 0 8px; }
+.project-authors strong { font-weight: 600; }
 .project-links { display: flex; flex-wrap: wrap; gap: 15px; }
 .project-links, .text-link { font-size: 14px; }
 .section-note { font-size: 14px; color: var(--muted); margin-bottom: 14px; }
